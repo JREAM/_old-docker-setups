@@ -1,0 +1,27 @@
+# Python
+uuid==1.30
+requests==2.11.1
+pillow==3.4.1
+
+# Django
+Django==1.10.2
+django-suit==0.2.21
+django-suit-dashboard==1.0.1
+django-registration-redux==1.4
+django-crispy-forms==1.6.0
+django-imagekit==3.3
+django-extensions==1.6.7
+django-toolset==0.1.5
+django_compressor==2.1
+
+# AWS & DB
+boto==2.42.0
+redis==2.10.5
+
+# Payment
+stripe==1.40.1
+paypalrestsdk==1.11.7
+
+
+# Security (Google Authenticator 2FA)
+pyotp==2.1.1
