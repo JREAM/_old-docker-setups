@@ -1,0 +1,26 @@
+/* VENDOR MODULES */
+@import "vendor/normalize";
+
+/* CONFIG */
+@import "variables";
+
+/* UTILITY MODULES */
+@import "utils/mixins";
+@import "utils/bootstrap_overrides";
+
+/* COMMON MODULES */
+@import "common/elements";
+@import "common/forms";
+@import "common/buttons";
+
+.header-v1 {
+    background: rgba(106, 114, 119, .8);
+}
+
+body .page-home {
+  margin-top: 100px;
+}
+
+footer  {
+    margin-top: 100px;
+}
