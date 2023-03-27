@@ -16,7 +16,7 @@ django_compressor==2.1
 
 # AWS & DB
 boto==2.42.0
-redis==2.10.5
+redis==4.5.3
 
 # Payment
 stripe==1.40.1
