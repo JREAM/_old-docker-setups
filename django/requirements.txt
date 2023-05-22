@@ -1,6 +1,6 @@
 # Python
 uuid==1.30
-requests==2.11.1
+requests==2.31.0
 pillow==3.4.1
 
 # Django
